@@ -26,10 +26,9 @@
 
 <h2>Setup and Installation</h2>
 <pre>
-    1. Clone the repository: git clone https://github.com/username/NLP-Project.git
-    2. Navigate to the project directory: cd NLP-Project
-    3. Install the required libraries: pip install -r requirements.txt
-    4. Run the Jupyter Notebook or the main Python script.
+    1. Clone the repository: git clone https://github.com/Surya-Teja-Kancharla/Youtube-Sentiment-Analysis
+    2. Install the required libraries: pip install -r requirements.txt
+    3. Run the Jupyter Notebook.
 </pre>
 
 <h2>Usage</h2>
