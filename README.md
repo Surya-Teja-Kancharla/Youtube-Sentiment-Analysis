@@ -35,9 +35,6 @@
 <h2>Usage</h2>
 <p>Run the notebook or Python scripts to preprocess text data, perform sentiment analysis, and classify text. Adjust configurations as needed in the provided scripts.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
 <h2>Contributions</h2>
 <p>Contributions are welcome! Feel free to fork the repository and submit a pull request.</p>
 
